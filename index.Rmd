@@ -1,0 +1,18 @@
+--- 
+title: "Systems Biology Manual"
+author: "Daniel Mateos San Martín"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+output: bookdown::gitbook
+documentclass: book
+github-repo: danimateos/sysbio-manual
+description: "This is the official manual for the Bioinformatics course taught at the CEU San Pablo Bioengineering degree."
+---
+
+# Prerequisites
+  
+In order to follow this course, you will need some Python notions, in particular numpy and plotting. The programming will be very simple, though.
+
+You will also need some knowledge of transcriptional regulation.
+
+

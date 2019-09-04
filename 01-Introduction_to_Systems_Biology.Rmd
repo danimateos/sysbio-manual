@@ -7,6 +7,8 @@
 
 ## What is Systems Biology?
 
+Systems Biology is about networks.
+
 ## The Jupyter Notebook
 
 ## Python overview
